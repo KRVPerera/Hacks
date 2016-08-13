@@ -1,0 +1,9 @@
+@echo off
+del *.o
+del *.exe
+del *.obj
+del *.pdb
+del *.ilk
+del *.nam
+del *.til
+del *.id*
